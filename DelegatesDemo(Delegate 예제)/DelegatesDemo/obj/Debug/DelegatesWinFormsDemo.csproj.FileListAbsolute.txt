@@ -1,0 +1,11 @@
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\bin\Debug\DelegatesWinFormsDemo.exe
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\bin\Debug\DelegatesWinFormsDemo.pdb
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.csprojResolveAssemblyReference.cache
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.Properties.Resources.resources
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.csproj.GenerateResource.Cache
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.exe
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.pdb
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.ChildForm1.resources
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.ChildForm2.resources
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.FormDialog.resources
+t:\C#_MySQL\My\DelegatesWinFormsDemo\DelegatesWinFormsDemo\obj\Debug\DelegatesWinFormsDemo.MainForm.resources

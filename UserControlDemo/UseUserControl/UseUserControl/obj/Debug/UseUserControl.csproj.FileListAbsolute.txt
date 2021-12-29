@@ -1,0 +1,11 @@
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\bin\Debug\UseUserControl.exe.config
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\bin\Debug\UseUserControl.exe
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\bin\Debug\UseUserControl.pdb
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\bin\Debug\UserDateTime.dll
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\bin\Debug\UserDateTime.pdb
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\obj\Debug\UseUserControl.csprojResolveAssemblyReference.cache
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\obj\Debug\UseUserControl.Form1.resources
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\obj\Debug\UseUserControl.Properties.Resources.resources
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\obj\Debug\UseUserControl.csproj.GenerateResource.Cache
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\obj\Debug\UseUserControl.exe
+C:\Users\SIT\Desktop\workplace\20_과제개발\C# Study\UserControlDemo\UseUserControl\UseUserControl\obj\Debug\UseUserControl.pdb
